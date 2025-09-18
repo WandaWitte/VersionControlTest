@@ -1,4 +1,7 @@
 library(usethis)
+
+# set up git connection
 usethis::use_git()
 
-# This is a comment!
+# set up github connection to push files
+usethis::use_github()
