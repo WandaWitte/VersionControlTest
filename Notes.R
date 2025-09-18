@@ -16,3 +16,5 @@
 # so far we only used git locally on this computer
 # but we can push it to github to make it remotely accessible
 # the first setup of usethis::use_github automatically opens up github
+# in the history (clock symbol) we can see which commits were local (HEAD)
+# and which were pushed to a remote (origin/master)
