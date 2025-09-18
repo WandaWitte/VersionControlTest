@@ -1,6 +1,7 @@
 ### Shortcuts
 # check Status in git panel on the right
 # tick box to add file -> prepares file to be staged
+# files NEED to be staged before they're committed
 # write commit message to keep track of changes
 # things will disappear from panel after commit
 # but reappear once new changes are saved
@@ -12,3 +13,6 @@
 
 ## COMMIT OFTEN AND USE USEFUL COMMIT MESSAGES
 
+# so far we only used git locally on this computer
+# but we can push it to github to make it remotely accessible
+# the first setup of usethis::use_github automatically opens up github
