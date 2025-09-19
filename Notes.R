@@ -9,6 +9,7 @@
 # if a committed file is deleted it will show in the Git panel too
 # files that are saved but not committed will not show if they're deleted
 # click clock symbol in git panel to see history
+# this is also where the SHA numbers are
 # click Diff in git panel to see changes of your recent commits
 
 ## COMMIT OFTEN AND USE USEFUL COMMIT MESSAGES
@@ -18,3 +19,5 @@
 # the first setup of usethis::use_github automatically opens up github
 # in the history (clock symbol) we can see which commits were local (HEAD)
 # and which were pushed to a remote (origin/master)
+
+## GITHUB
